@@ -4,7 +4,7 @@ Get started by creating a fork of this repository. Do feel encouraged to go abov
 
 ### *Deadline*
 
-* [XX.XX.2024]
+* April 1st 2024
 
 ### *Submission Guidelines*
 
